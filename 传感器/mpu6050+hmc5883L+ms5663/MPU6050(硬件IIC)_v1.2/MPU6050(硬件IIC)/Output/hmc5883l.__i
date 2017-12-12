@@ -1,0 +1,1 @@
+-c --cpu Cortex-M3 -D__MICROLIB -g -O0 --apcs=interwork -I..\USER -I..\FWlib\inc -I..\CMSIS -I "C:\Keil_4\ARM\CMSIS\Include" -I "C:\Keil_4\ARM\INC\ST\STM32F10x" -DUSE_STDPERIPH_DRIVER -DSTM32F10X_HD -o "..\Output\hmc5883l.o" --omf_browse "..\Output\hmc5883l.crf" --depend "..\Output\hmc5883l.d" "hmc5883l.c"

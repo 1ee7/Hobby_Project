@@ -1,0 +1,14 @@
+..\Output\hmc5883l.o: hmc5883l.c
+..\Output\hmc5883l.o: hmc5883l.h
+..\Output\hmc5883l.o: i2c_lib.h
+..\Output\hmc5883l.o: ..\CMSIS\stm32f10x.h
+..\Output\hmc5883l.o: ..\CMSIS\core_cm3.h
+..\Output\hmc5883l.o: C:\Keil_4\ARM\RV31\INC\stdint.h
+..\Output\hmc5883l.o: ..\CMSIS\system_stm32f10x.h
+..\Output\hmc5883l.o: ..\USER\stm32f10x_conf.h
+..\Output\hmc5883l.o: ..\FWlib\inc\stm32f10x_gpio.h
+..\Output\hmc5883l.o: ..\CMSIS\stm32f10x.h
+..\Output\hmc5883l.o: ..\FWlib\inc\stm32f10x_i2c.h
+..\Output\hmc5883l.o: ..\FWlib\inc\stm32f10x_rcc.h
+..\Output\hmc5883l.o: ..\FWlib\inc\stm32f10x_usart.h
+..\Output\hmc5883l.o: C:\Keil_4\ARM\RV31\INC\math.h

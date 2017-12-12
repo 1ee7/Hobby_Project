@@ -1,0 +1,14 @@
+..\Output\time2_delay.o: time2_delay.c
+..\Output\time2_delay.o: time2_delay.h
+..\Output\time2_delay.o: ..\CMSIS\stm32f10x.h
+..\Output\time2_delay.o: ..\CMSIS\core_cm3.h
+..\Output\time2_delay.o: C:\Keil_4\ARM\RV31\INC\stdint.h
+..\Output\time2_delay.o: ..\CMSIS\system_stm32f10x.h
+..\Output\time2_delay.o: ..\USER\stm32f10x_conf.h
+..\Output\time2_delay.o: ..\FWlib\inc\stm32f10x_gpio.h
+..\Output\time2_delay.o: ..\CMSIS\stm32f10x.h
+..\Output\time2_delay.o: ..\FWlib\inc\stm32f10x_i2c.h
+..\Output\time2_delay.o: ..\FWlib\inc\stm32f10x_rcc.h
+..\Output\time2_delay.o: ..\FWlib\inc\stm32f10x_usart.h
+..\Output\time2_delay.o: ..\FWlib\inc\stm32f10x_tim.h
+..\Output\time2_delay.o: ..\FWlib\inc\misc.h

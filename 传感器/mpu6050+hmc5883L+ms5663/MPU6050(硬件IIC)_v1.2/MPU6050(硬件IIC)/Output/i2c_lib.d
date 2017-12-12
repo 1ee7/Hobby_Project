@@ -1,0 +1,12 @@
+..\Output\i2c_lib.o: i2c_lib.c
+..\Output\i2c_lib.o: i2c_lib.h
+..\Output\i2c_lib.o: ..\CMSIS\stm32f10x.h
+..\Output\i2c_lib.o: ..\CMSIS\core_cm3.h
+..\Output\i2c_lib.o: C:\Keil_4\ARM\RV31\INC\stdint.h
+..\Output\i2c_lib.o: ..\CMSIS\system_stm32f10x.h
+..\Output\i2c_lib.o: ..\USER\stm32f10x_conf.h
+..\Output\i2c_lib.o: ..\FWlib\inc\stm32f10x_gpio.h
+..\Output\i2c_lib.o: ..\CMSIS\stm32f10x.h
+..\Output\i2c_lib.o: ..\FWlib\inc\stm32f10x_i2c.h
+..\Output\i2c_lib.o: ..\FWlib\inc\stm32f10x_rcc.h
+..\Output\i2c_lib.o: ..\FWlib\inc\stm32f10x_usart.h

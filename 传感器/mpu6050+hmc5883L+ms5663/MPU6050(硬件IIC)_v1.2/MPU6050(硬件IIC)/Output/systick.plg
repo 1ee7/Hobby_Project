@@ -1,0 +1,353 @@
+<html>
+<body>
+<pre>
+<h1>µVision Build Log</h1>
+<h2>Project:</h2>
+D:\tgl\mpu6050\MPU6050(Ó²¼þIIC)\MPU6050(Ó²¼þIIC)\USER\I2C_MPU6050.uvproj
+Project File Date:  11/27/2017
+
+<h2>Output:</h2>
+Build target 'Target 1'
+compiling main.c...
+main.c(93): warning:  #550-D: variable "hight" was set but never used
+main.c(325): warning:  #550-D: variable "angle_dot" was set but never used
+main.c(370): warning:  #550-D: variable "temp" was set but never used
+compiling hmc5883l.c...
+hmc5883l.c(140): warning:  #223-D: function "printf" declared implicitly
+linking...
+Program Size: Code=19888 RO-data=656 RW-data=224 ZI-data=1136  
+FromELF: creating hex file...
+"..\Output\systick.axf" - 0 Error(s), 4 Warning(s).
+Load "..\\Output\\systick.AXF" 
+Erase Done.
+Programming Done.
+Verify OK.
+Application running ...
+Build target 'Target 1'
+compiling hmc5883l.c...
+hmc5883l.c(140): warning:  #223-D: function "printf" declared implicitly
+hmc5883l.c(145): error:  #140: too many arguments in function call
+Target not created
+Load "..\\Output\\systick.AXF" 
+_____^
+*** error 56: cannot open file
+Build target 'Target 1'
+compiling hmc5883l.c...
+hmc5883l.c(140): warning:  #223-D: function "printf" declared implicitly
+hmc5883l.c(145): error:  #140: too many arguments in function call
+Target not created
+Build target 'Target 1'
+compiling hmc5883l.c...
+hmc5883l.c(140): warning:  #223-D: function "printf" declared implicitly
+linking...
+Program Size: Code=19872 RO-data=656 RW-data=224 ZI-data=1136  
+FromELF: creating hex file...
+"..\Output\systick.axf" - 0 Error(s), 1 Warning(s).
+Load "..\\Output\\systick.AXF" 
+Erase Done.
+Programming Done.
+Verify OK.
+Application running ...
+Build target 'Target 1'
+compiling hmc5883l.c...
+hmc5883l.c(140): warning:  #223-D: function "printf" declared implicitly
+linking...
+Program Size: Code=19896 RO-data=656 RW-data=224 ZI-data=1136  
+FromELF: creating hex file...
+"..\Output\systick.axf" - 0 Error(s), 1 Warning(s).
+Load "..\\Output\\systick.AXF" 
+Erase Done.
+Programming Done.
+Verify OK.
+Application running ...
+Build target 'Target 1'
+compiling main.c...
+main.c(93): warning:  #550-D: variable "hight" was set but never used
+main.c(325): warning:  #550-D: variable "angle_dot" was set but never used
+main.c(370): warning:  #550-D: variable "temp" was set but never used
+linking...
+Program Size: Code=19896 RO-data=656 RW-data=224 ZI-data=1136  
+FromELF: creating hex file...
+"..\Output\systick.axf" - 0 Error(s), 3 Warning(s).
+Load "..\\Output\\systick.AXF" 
+Erase Done.
+Programming Done.
+Verify OK.
+Application running ...
+Build target 'Target 1'
+compiling main.c...
+main.c(95): warning:  #550-D: variable "hight" was set but never used
+main.c(329): warning:  #550-D: variable "angle_dot" was set but never used
+main.c(374): warning:  #550-D: variable "temp" was set but never used
+compiling hmc5883l.c...
+hmc5883l.c(140): warning:  #223-D: function "printf" declared implicitly
+linking...
+Program Size: Code=20672 RO-data=656 RW-data=224 ZI-data=1136  
+FromELF: creating hex file...
+"..\Output\systick.axf" - 0 Error(s), 4 Warning(s).
+Load "..\\Output\\systick.AXF" 
+Erase Done.
+Programming Done.
+Verify OK.
+Application running ...
+Build target 'Target 1'
+compiling main.c...
+main.c(95): warning:  #550-D: variable "hight" was set but never used
+main.c(329): warning:  #550-D: variable "angle_dot" was set but never used
+main.c(374): warning:  #550-D: variable "temp" was set but never used
+compiling hmc5883l.c...
+hmc5883l.c(140): warning:  #223-D: function "printf" declared implicitly
+linking...
+Program Size: Code=19904 RO-data=656 RW-data=224 ZI-data=1136  
+FromELF: creating hex file...
+"..\Output\systick.axf" - 0 Error(s), 4 Warning(s).
+Load "..\\Output\\systick.AXF" 
+Erase Done.
+Programming Done.
+Verify OK.
+Application running ...
+Build target 'Target 1'
+compiling hmc5883l.c...
+hmc5883l.c(140): warning:  #223-D: function "printf" declared implicitly
+linking...
+Program Size: Code=19888 RO-data=656 RW-data=224 ZI-data=1136  
+FromELF: creating hex file...
+"..\Output\systick.axf" - 0 Error(s), 1 Warning(s).
+Load "..\\Output\\systick.AXF" 
+Erase Done.
+Programming Done.
+Verify OK.
+Application running ...
+Build target 'Target 1'
+compiling hmc5883l.c...
+hmc5883l.c(140): warning:  #223-D: function "printf" declared implicitly
+linking...
+Program Size: Code=19888 RO-data=656 RW-data=224 ZI-data=1136  
+FromELF: creating hex file...
+"..\Output\systick.axf" - 0 Error(s), 1 Warning(s).
+Load "..\\Output\\systick.AXF" 
+Erase Done.
+Programming Done.
+Verify OK.
+Application running ...
+Build target 'Target 1'
+compiling hmc5883l.c...
+hmc5883l.c(140): warning:  #223-D: function "printf" declared implicitly
+linking...
+Program Size: Code=19880 RO-data=656 RW-data=224 ZI-data=1136  
+FromELF: creating hex file...
+"..\Output\systick.axf" - 0 Error(s), 1 Warning(s).
+Load "..\\Output\\systick.AXF" 
+Erase Done.
+Programming Done.
+Verify OK.
+Application running ...
+Build target 'Target 1'
+compiling hmc5883l.c...
+hmc5883l.c(140): warning:  #223-D: function "printf" declared implicitly
+linking...
+Program Size: Code=19880 RO-data=656 RW-data=224 ZI-data=1136  
+FromELF: creating hex file...
+"..\Output\systick.axf" - 0 Error(s), 1 Warning(s).
+Load "..\\Output\\systick.AXF" 
+Erase Done.
+Programming Done.
+Verify OK.
+Application running ...
+Build target 'Target 1'
+compiling main.c...
+main.c(95): warning:  #550-D: variable "hight" was set but never used
+main.c(330): warning:  #550-D: variable "angle_dot" was set but never used
+main.c(375): warning:  #550-D: variable "temp" was set but never used
+compiling hmc5883l.c...
+hmc5883l.c(207): warning:  #223-D: function "delay_ms" declared implicitly
+hmc5883l.c(209): warning:  #223-D: function "abs" declared implicitly
+hmc5883l.c(218): warning:  #223-D: function "printf" declared implicitly
+linking...
+Program Size: Code=20144 RO-data=656 RW-data=236 ZI-data=1140  
+FromELF: creating hex file...
+"..\Output\systick.axf" - 0 Error(s), 6 Warning(s).
+Load "..\\Output\\systick.AXF" 
+Erase Done.
+Programming Done.
+Verify OK.
+Application running ...
+Build target 'Target 1'
+compiling hmc5883l.c...
+hmc5883l.c(207): warning:  #223-D: function "delay_ms" declared implicitly
+hmc5883l.c(212): warning:  #223-D: function "abs" declared implicitly
+hmc5883l.c(220): warning:  #223-D: function "delay_ms" declared implicitly
+hmc5883l.c(221): warning:  #223-D: function "printf" declared implicitly
+linking...
+Program Size: Code=20032 RO-data=656 RW-data=236 ZI-data=1140  
+FromELF: creating hex file...
+"..\Output\systick.axf" - 0 Error(s), 4 Warning(s).
+Load "..\\Output\\systick.AXF" 
+Erase Done.
+Programming Done.
+Verify OK.
+Application running ...
+Build target 'Target 1'
+linking...
+Program Size: Code=20032 RO-data=656 RW-data=236 ZI-data=1140  
+FromELF: creating hex file...
+"..\Output\systick.axf" - 0 Error(s), 0 Warning(s).
+Load "..\\Output\\systick.AXF" 
+Erase Done.
+Programming Done.
+Verify OK.
+Application running ...
+Build target 'Target 1'
+compiling hmc5883l.c...
+hmc5883l.c(207): warning:  #223-D: function "delay_ms" declared implicitly
+hmc5883l.c(212): warning:  #223-D: function "abs" declared implicitly
+hmc5883l.c(220): warning:  #223-D: function "delay_ms" declared implicitly
+hmc5883l.c(221): warning:  #223-D: function "printf" declared implicitly
+linking...
+Program Size: Code=20032 RO-data=656 RW-data=236 ZI-data=1140  
+FromELF: creating hex file...
+"..\Output\systick.axf" - 0 Error(s), 4 Warning(s).
+Load "..\\Output\\systick.AXF" 
+Erase Done.
+Programming Done.
+Verify OK.
+Application running ...
+Build target 'Target 1'
+compiling hmc5883l.c...
+hmc5883l.c(207): warning:  #223-D: function "delay_ms" declared implicitly
+hmc5883l.c(212): warning:  #223-D: function "abs" declared implicitly
+hmc5883l.c(220): warning:  #223-D: function "delay_ms" declared implicitly
+hmc5883l.c(221): warning:  #223-D: function "printf" declared implicitly
+linking...
+Program Size: Code=20032 RO-data=656 RW-data=236 ZI-data=1140  
+FromELF: creating hex file...
+"..\Output\systick.axf" - 0 Error(s), 4 Warning(s).
+Load "..\\Output\\systick.AXF" 
+Erase Done.
+Programming Done.
+Verify OK.
+Application running ...
+Build target 'Target 1'
+compiling hmc5883l.c...
+hmc5883l.c(207): warning:  #223-D: function "delay_ms" declared implicitly
+hmc5883l.c(212): warning:  #223-D: function "abs" declared implicitly
+hmc5883l.c(221): warning:  #223-D: function "printf" declared implicitly
+linking...
+Program Size: Code=20024 RO-data=656 RW-data=236 ZI-data=1140  
+FromELF: creating hex file...
+"..\Output\systick.axf" - 0 Error(s), 3 Warning(s).
+Load "..\\Output\\systick.AXF" 
+Erase Done.
+Programming Done.
+Verify OK.
+Application running ...
+Build target 'Target 1'
+compiling hmc5883l.c...
+hmc5883l.c(212): warning:  #223-D: function "abs" declared implicitly
+hmc5883l.c(220): warning:  #223-D: function "delay_ms" declared implicitly
+hmc5883l.c(221): warning:  #223-D: function "printf" declared implicitly
+linking...
+Program Size: Code=20024 RO-data=656 RW-data=236 ZI-data=1140  
+FromELF: creating hex file...
+"..\Output\systick.axf" - 0 Error(s), 3 Warning(s).
+Load "..\\Output\\systick.AXF" 
+Erase Done.
+Programming Done.
+Verify OK.
+Application running ...
+Build target 'Target 1'
+compiling hmc5883l.c...
+hmc5883l.c(207): warning:  #223-D: function "delay_ms" declared implicitly
+hmc5883l.c(212): warning:  #223-D: function "abs" declared implicitly
+hmc5883l.c(220): warning:  #223-D: function "delay_ms" declared implicitly
+hmc5883l.c(221): warning:  #223-D: function "printf" declared implicitly
+linking...
+Program Size: Code=20032 RO-data=656 RW-data=236 ZI-data=1140  
+FromELF: creating hex file...
+"..\Output\systick.axf" - 0 Error(s), 4 Warning(s).
+Load "..\\Output\\systick.AXF" 
+Erase Done.
+Programming Done.
+Verify OK.
+Application running ...
+Build target 'Target 1'
+compiling main.c...
+main.c(95): warning:  #550-D: variable "hight" was set but never used
+main.c(332): warning:  #550-D: variable "angle_dot" was set but never used
+main.c(377): warning:  #550-D: variable "temp" was set but never used
+compiling hmc5883l.c...
+hmc5883l.c(179): warning:  #223-D: function "printf" declared implicitly
+hmc5883l.c(207): warning:  #223-D: function "delay_ms" declared implicitly
+hmc5883l.c(216): warning:  #223-D: function "abs" declared implicitly
+hmc5883l.c(224): warning:  #223-D: function "delay_ms" declared implicitly
+linking...
+Program Size: Code=20128 RO-data=656 RW-data=236 ZI-data=1140  
+FromELF: creating hex file...
+"..\Output\systick.axf" - 0 Error(s), 7 Warning(s).
+Load "..\\Output\\systick.AXF" 
+Erase Done.
+Programming Done.
+Verify OK.
+Application running ...
+Build target 'Target 1'
+compiling main.c...
+main.c(95): warning:  #550-D: variable "hight" was set but never used
+main.c(336): warning:  #550-D: variable "angle_dot" was set but never used
+main.c(381): warning:  #550-D: variable "temp" was set but never used
+linking...
+Program Size: Code=20176 RO-data=656 RW-data=236 ZI-data=1140  
+FromELF: creating hex file...
+"..\Output\systick.axf" - 0 Error(s), 3 Warning(s).
+Load "..\\Output\\systick.AXF" 
+Erase Done.
+Programming Done.
+Verify OK.
+Application running ...
+Build target 'Target 1'
+compiling main.c...
+main.c(96): warning:  #550-D: variable "hight" was set but never used
+main.c(338): warning:  #550-D: variable "angle_dot" was set but never used
+main.c(383): warning:  #550-D: variable "temp" was set but never used
+linking...
+Program Size: Code=20216 RO-data=656 RW-data=236 ZI-data=1140  
+FromELF: creating hex file...
+"..\Output\systick.axf" - 0 Error(s), 3 Warning(s).
+Load "..\\Output\\systick.AXF" 
+Erase Done.
+Programming Done.
+Verify OK.
+Application running ...
+Build target 'Target 1'
+compiling main.c...
+main.c(96): warning:  #550-D: variable "hight" was set but never used
+main.c(342): warning:  #550-D: variable "angle_dot" was set but never used
+main.c(387): warning:  #550-D: variable "temp" was set but never used
+linking...
+Program Size: Code=20272 RO-data=656 RW-data=236 ZI-data=1140  
+FromELF: creating hex file...
+"..\Output\systick.axf" - 0 Error(s), 3 Warning(s).
+Build target 'Target 1'
+linking...
+Program Size: Code=20272 RO-data=656 RW-data=236 ZI-data=1140  
+FromELF: creating hex file...
+"..\Output\systick.axf" - 0 Error(s), 0 Warning(s).
+Load "..\\Output\\systick.AXF" 
+Erase Done.
+Programming Done.
+Verify OK.
+Application running ...
+Build target 'Target 1'
+compiling hmc5883l.c...
+hmc5883l.c(184): warning:  #223-D: function "printf" declared implicitly
+hmc5883l.c(212): warning:  #223-D: function "delay_ms" declared implicitly
+hmc5883l.c(221): warning:  #223-D: function "abs" declared implicitly
+hmc5883l.c(229): warning:  #223-D: function "delay_ms" declared implicitly
+linking...
+Program Size: Code=20360 RO-data=656 RW-data=236 ZI-data=1140  
+FromELF: creating hex file...
+"..\Output\systick.axf" - 0 Error(s), 4 Warning(s).
+Load "..\\Output\\systick.AXF" 
+Erase Done.
+Programming Done.
+Verify OK.
+Application running ...
